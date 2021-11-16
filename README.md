@@ -1,4 +1,4 @@
-# Deploying-Tensorflow-NLP-models
+# Deploy text classficiation  Tensorflow model 
 this project can be used to deploy an **text classification** pipeline using **Tensorflow**  as a webservice using **Flask**.  
 
 This code projet servs a Text classification pipline using Tensorflow. 
