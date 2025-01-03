@@ -6,3 +6,4 @@ The model was trained on a dataset that has 4 different classes, the saved the T
 To run the Project, download the code then run in your terminal: python3 app.py. 
 
 # classify_languages_api
+# classify_languages_api
